@@ -1,0 +1,4 @@
+0.70 Leaf Blight
+0.30 Leaf Spot
+0.00 Algal Leaf Spot
+0.00 No Disease

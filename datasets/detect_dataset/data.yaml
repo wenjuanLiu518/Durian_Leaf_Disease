@@ -1,0 +1,15 @@
+train: 
+  ./train/images
+val: 
+  ./valid/images
+# test: ./test/images
+
+nc: 4
+names: ['Algal Leaf Spot', 'Leaf Blight', 'Leaf Spot', 'No Disease']
+
+roboflow:
+  workspace: new-workspace-7ly0p
+  project: durian-diseases
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/new-workspace-7ly0p/durian-diseases/dataset/1
