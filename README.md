@@ -14,3 +14,15 @@ t-SNE Visualization of (a)Flux; (b) SD3.5; (c) SDXL
 
 CAMs of DurioFLUX images
 
+![image](https://github.com/user-attachments/assets/ee01754c-d5f6-4a02-b7e6-7d890abaf312)
+Test accuracy comparison
+
+# Technologies Used
+
+# Dataset
+
+# Usage Steps
+
+# Citation
+If you use this code in your research, please cite:
+@article{ author = {Wenjuan Liu}, title = {"Image augmentation by a vision-language foundation model for durian leaf disease recognition"}, journal = {The Visual Computer}, year = {2025}, note = {Submitted} }
