@@ -6,3 +6,11 @@ This study employs a vision–language foundation model (FLUX) fine-tuned via Lo
 <img width="1182" alt="image" src="https://github.com/user-attachments/assets/2a0330e7-74bb-472a-92f3-b10effa9eb9b" />
 
 Quantitative evaluations (KID and CAS) of generated synthetic images.
+
+<img width="989" alt="image" src="https://github.com/user-attachments/assets/82a6ce04-af73-4e98-a8e3-f21a8ed4ab75" />
+t-SNE Visualization of (a)Flux; (b) SD3.5; (c) SDXL
+
+![image](https://github.com/user-attachments/assets/ee5cc2de-f519-4493-ae39-b958d521f1ca)
+
+CAMs of DurioFLUX images
+
