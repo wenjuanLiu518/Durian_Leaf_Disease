@@ -40,7 +40,7 @@ Test accuracy comparison
 # Dataset
 This study uses the two datasets containing 4 classes of durian leaf disease:  
 Fine-tuning datasets:Roboflow(https://universe.roboflow.com/machine-vision-leaf-disease/durian-disease-llewn-cmng1)  
-Downstream classification datasets:  
+Downstream classification datasets: https://github.com/wenjuanLiu518/Durian_Leaf_Disease/tree/main/shoot_on_location 
 # Usage Steps
 
 # Citation
