@@ -17,32 +17,32 @@ CAMs of DurioFLUX images
 ![image](https://github.com/user-attachments/assets/ee01754c-d5f6-4a02-b7e6-7d890abaf312)
 Test accuracy comparison
 # Developing Environments
-Pytyon
-PyTorch
-huggingface-hub
-transformers
-OpenCV
-numpy,sklearn,scipy,six,PIL,matplotlib,seaborn,mkl
-albumentations, grad-cam,plantcv,umap-learn, ultralytics
+Pytyon  
+PyTorch  
+huggingface-hub  
+transformers  
+OpenCV  
+numpy,sklearn,scipy,six,PIL,matplotlib,seaborn,mkl  
+albumentations, grad-cam,plantcv,umap-learn, ultralytics  
 
 # Technologies Used
-FLUX
-SDXL
-SD35
-lora-scripts, sd-scripts
-ComfyUI,WebUI
-GroundingDINO
-SegmentAnything
-WD Tagger
-Llama
-delight
+FLUX  
+SDXL  
+SD35  
+lora-scripts, sd-scripts  
+ComfyUI,WebUI  
+GroundingDINO  
+SegmentAnything  
+WD Tagger  
+Llama  
+delight  
 
 # Dataset
-This study uses the two datasets containing 4 classes of durian leaf disease:
-Fine-tuning datasets:Roboflow(https://universe.roboflow.com/machine-vision-leaf-disease/durian-disease-llewn-cmng1)
-Downstream classification datasets: 
+This study uses the two datasets containing 4 classes of durian leaf disease:  
+Fine-tuning datasets:Roboflow(https://universe.roboflow.com/machine-vision-leaf-disease/durian-disease-llewn-cmng1)  
+Downstream classification datasets:  
 # Usage Steps
 
 # Citation
-If you use this code in your research, please cite:
+If you use this code in your research, please cite:  
 @article{ author = {Wenjuan Liu}, title = {"Image augmentation by a vision-language foundation model for durian leaf disease recognition"}, journal = {The Visual Computer}, year = {2025}, note = {Submitted} }
