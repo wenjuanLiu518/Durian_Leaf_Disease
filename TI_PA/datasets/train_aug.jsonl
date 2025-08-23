@@ -1,72 +1,43 @@
-{"image":"leaf1.png","prompt":"macro shot of <durian_leaf> with leaf spot disease, high detail"}
-{"image":"leaf1.png","prompt":"close-up photo of healthy <durian_leaf> on the tree"}
-{"image":"leaf1.png","prompt":"microscopic view of lesions on <durian_leaf>, texture emphasized"}
-{"image":"leaf1.png","prompt":"top-down shot of a single <durian_leaf> on white background"}
-{"image":"leaf1.png","prompt":"<durian_leaf> suffering from fungal infection, brown spots visible"}
-{"image":"leaf1.png","prompt":"botanical illustration style of <durian_leaf>, clean lines"}
-{"image":"leaf1.png","prompt":"wet <durian_leaf> after rain, droplets, macro photography"}
-{"image":"leaf1.png","prompt":"backlit <durian_leaf> veins glowing translucently"}
+{"image":"AlgalLeafSpot/AlgalLeafSpot001.jpg","text":"","place_holder":"algal_leaf_spot"}
+{"image":"AlgalLeafSpot/AlgalLeafSpot005.jpg","text":"","place_holder":"algal_leaf_spot"}
+{"image":"AlgalLeafSpot/AlgalLeafSpot006.jpg","text":"","place_holder":"algal_leaf_spot"}
+{"image":"AlgalLeafSpot/AlgalLeafSpot007.jpg","text":"","place_holder":"algal_leaf_spot"}
+{"image":"AlgalLeafSpot/AlgalLeafSpot011.jpg","text":"","place_holder":"algal_leaf_spot"}
+{"image":"AlgalLeafSpot/AlgalLeafSpot013.jpg","text":"","place_holder":"algal_leaf_spot"}
+{"image":"AlgalLeafSpot/AlgalLeafSpot021.jpg","text":"","place_holder":"algal_leaf_spot"}
+{"image":"AlgalLeafSpot/AlgalLeafSpot041.jpg","text":"","place_holder":"algal_leaf_spot"}
+{"image":"AlgalLeafSpot/AlgalLeafSpot062.jpg","text":"","place_holder":"algal_leaf_spot"}
+{"image":"AlgalLeafSpot/AlgalLeafSpot067.jpg","text":"","place_holder":"algal_leaf_spot"}
 
-{"image":"leaf2.png","prompt":"macro shot of <durian_leaf> with leaf spot disease, high detail"}
-{"image":"leaf2.png","prompt":"close-up photo of healthy <durian_leaf> on the tree"}
-{"image":"leaf2.png","prompt":"microscopic view of lesions on <durian_leaf>, texture emphasized"}
-{"image":"leaf2.png","prompt":"top-down shot of a single <durian_leaf> on white background"}
-{"image":"leaf2.png","prompt":"<durian_leaf> suffering from fungal infection, brown spots visible"}
-{"image":"leaf2.png","prompt":"botanical illustration style of <durian_leaf>, clean lines"}
-{"image":"leaf2.png","prompt":"wet <durian_leaf> after rain, droplets, macro photography"}
-{"image":"leaf2.png","prompt":"backlit <durian_leaf> veins glowing translucently"}
+{"image":"LeafSpot/LeafSpot001.jpg","text":"","place_holder":"leaf_spot"}
+{"image":"LeafSpot/LeafSpot003.jpg","text":"","place_holder":"leaf_spot"}
+{"image":"LeafSpot/LeafSpot013.jpg","text":"","place_holder":"leaf_spot"}
+{"image":"LeafSpot/LeafSpot027.jpg","text":"","place_holder":"leaf_spot"}
+{"image":"LeafSpot/LeafSpot028.jpg","text":"","place_holder":"leaf_spot"}
+{"image":"LeafSpot/LeafSpot032.jpg","text":"","place_holder":"leaf_spot"}
+{"image":"LeafSpot/LeafSpot034.jpg","text":"","place_holder":"leaf_spot"}
+{"image":"LeafSpot/LeafSpot043.jpg","text":"","place_holder":"leaf_spot"}
+{"image":"LeafSpot/LeafSpot068.jpg","text":"","place_holder":"leaf_spot"}
+{"image":"LeafSpot/LeafSpot084.jpg","text":"","place_holder":"leaf_spot"}
 
-{"image":"leaf3.png","prompt":"macro shot of <durian_leaf> with leaf spot disease, high detail"}
-{"image":"leaf3.png","prompt":"close-up photo of healthy <durian_leaf> on the tree"}
-{"image":"leaf3.png","prompt":"microscopic view of lesions on <durian_leaf>, texture emphasized"}
-{"image":"leaf3.png","prompt":"top-down shot of a single <durian_leaf> on white background"}
-{"image":"leaf3.png","prompt":"<durian_leaf> suffering from fungal infection, brown spots visible"}
-{"image":"leaf3.png","prompt":"botanical illustration style of <durian_leaf>, clean lines"}
-{"image":"leaf3.png","prompt":"wet <durian_leaf> after rain, droplets, macro photography"}
-{"image":"leaf3.png","prompt":"backlit <durian_leaf> veins glowing translucently"}
+{"image":"LeafBlight/LeafBlight024.jpg","text":"","place_holder":"leaf_blight"}
+{"image":"LeafBlight/LeafBlight026.jpg","text":"","place_holder":"leaf_blight"}
+{"image":"LeafBlight/LeafBlight030.jpg","text":"","place_holder":"leaf_blight"}
+{"image":"LeafBlight/LeafBlight032.jpg","text":"","place_holder":"leaf_blight"}
+{"image":"LeafBlight/LeafBlight035.jpg","text":"","place_holder":"leaf_blight"}
+{"image":"LeafBlight/LeafBlight036.jpg","text":"","place_holder":"leaf_blight"}
+{"image":"LeafBlight/LeafBlight037.jpg","text":"","place_holder":"leaf_blight"}
+{"image":"LeafBlight/LeafBlight040.jpg","text":"","place_holder":"leaf_blight"}
+{"image":"LeafBlight/LeafBlight041.jpg","text":"","place_holder":"leaf_blight"}
+{"image":"LeafBlight/LeafBlight047.jpg","text":"","place_holder":"leaf_blight"}
 
-{"image":"leaf4.png","prompt":"macro shot of <durian_leaf> with leaf spot disease, high detail"}
-{"image":"leaf4.png","prompt":"close-up photo of healthy <durian_leaf> on the tree"}
-{"image":"leaf4.png","prompt":"microscopic view of lesions on <durian_leaf>, texture emphasized"}
-{"image":"leaf4.png","prompt":"top-down shot of a single <durian_leaf> on white background"}
-{"image":"leaf4.png","prompt":"<durian_leaf> suffering from fungal infection, brown spots visible"}
-{"image":"leaf4.png","prompt":"botanical illustration style of <durian_leaf>, clean lines"}
-{"image":"leaf4.png","prompt":"wet <durian_leaf> after rain, droplets, macro photography"}
-{"image":"leaf4.png","prompt":"backlit <durian_leaf> veins glowing translucently"}
-
-{"image":"leaf5.png","prompt":"macro shot of <durian_leaf> with leaf spot disease, high detail"}
-{"image":"leaf5.png","prompt":"close-up photo of healthy <durian_leaf> on the tree"}
-{"image":"leaf5.png","prompt":"microscopic view of lesions on <durian_leaf>, texture emphasized"}
-{"image":"leaf5.png","prompt":"top-down shot of a single <durian_leaf> on white background"}
-{"image":"leaf5.png","prompt":"<durian_leaf> suffering from fungal infection, brown spots visible"}
-{"image":"leaf5.png","prompt":"botanical illustration style of <durian_leaf>, clean lines"}
-{"image":"leaf5.png","prompt":"wet <durian_leaf> after rain, droplets, macro photography"}
-{"image":"leaf5.png","prompt":"backlit <durian_leaf> veins glowing translucently"}
-
-{"image":"leaf6.png","prompt":"macro shot of <durian_leaf> with leaf spot disease, high detail"}
-{"image":"leaf6.png","prompt":"close-up photo of healthy <durian_leaf> on the tree"}
-{"image":"leaf6.png","prompt":"microscopic view of lesions on <durian_leaf>, texture emphasized"}
-{"image":"leaf6.png","prompt":"top-down shot of a single <durian_leaf> on white background"}
-{"image":"leaf6.png","prompt":"<durian_leaf> suffering from fungal infection, brown spots visible"}
-{"image":"leaf6.png","prompt":"botanical illustration style of <durian_leaf>, clean lines"}
-{"image":"leaf6.png","prompt":"wet <durian_leaf> after rain, droplets, macro photography"}
-{"image":"leaf6.png","prompt":"backlit <durian_leaf> veins glowing translucently"}
-
-{"image":"leaf7.png","prompt":"macro shot of <durian_leaf> with leaf spot disease, high detail"}
-{"image":"leaf7.png","prompt":"close-up photo of healthy <durian_leaf> on the tree"}
-{"image":"leaf7.png","prompt":"microscopic view of lesions on <durian_leaf>, texture emphasized"}
-{"image":"leaf7.png","prompt":"top-down shot of a single <durian_leaf> on white background"}
-{"image":"leaf7.png","prompt":"<durian_leaf> suffering from fungal infection, brown spots visible"}
-{"image":"leaf7.png","prompt":"botanical illustration style of <durian_leaf>, clean lines"}
-{"image":"leaf7.png","prompt":"wet <durian_leaf> after rain, droplets, macro photography"}
-{"image":"leaf7.png","prompt":"backlit <durian_leaf> veins glowing translucently"}
-
-{"image":"leaf8.png","prompt":"macro shot of <durian_leaf> with leaf spot disease, high detail"}
-{"image":"leaf8.png","prompt":"close-up photo of healthy <durian_leaf> on the tree"}
-{"image":"leaf8.png","prompt":"microscopic view of lesions on <durian_leaf>, texture emphasized"}
-{"image":"leaf8.png","prompt":"top-down shot of a single <durian_leaf> on white background"}
-{"image":"leaf8.png","prompt":"<durian_leaf> suffering from fungal infection, brown spots visible"}
-{"image":"leaf8.png","prompt":"botanical illustration style of <durian_leaf>, clean lines"}
-{"image":"leaf8.png","prompt":"wet <durian_leaf> after rain, droplets, macro photography"}
-{"image":"leaf8.png","prompt":"backlit <durian_leaf> veins glowing translucently"}
-
+{"image":"Healthy/NoDisease018.jpg","text":"","place_holder":"no_disease"}
+{"image":"Healthy/NoDisease020.jpg","text":"","place_holder":"no_disease"}
+{"image":"Healthy/NoDisease021.jpg","text":"","place_holder":"no_disease"}
+{"image":"Healthy/NoDisease034.jpg","text":"","place_holder":"no_disease"}
+{"image":"Healthy/NoDisease039.jpg","text":"","place_holder":"no_disease"}
+{"image":"Healthy/NoDisease047.jpg","text":"","place_holder":"no_disease"}
+{"image":"Healthy/NoDisease055.jpg","text":"","place_holder":"no_disease"}
+{"image":"Healthy/NoDisease058.jpg","text":"","place_holder":"no_disease"}
+{"image":"Healthy/NoDisease061.jpg","text":"","place_holder":"no_disease"}
+{"image":"Healthy/NoDisease063.jpg","text":"","place_holder":"no_disease"}
