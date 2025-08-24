@@ -1,1 +1,1 @@
-A photo of durian leaf with algal leaf spot, featuring multiple round, orange-brown lesions predominantly aligned along the central vein. Some lesions show coalescing patterns and light discoloration around the edges.
+A photo of durian leaf with algal_leaf_spot, featuring multiple round, orange-brown lesions predominantly aligned along the central vein. Some lesions show coalescing patterns and light discoloration around the edges.

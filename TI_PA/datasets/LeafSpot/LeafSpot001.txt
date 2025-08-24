@@ -1,1 +1,1 @@
-A photo of durian leaf with leaf spot, showing numerous small, circular yellow-green lesions with darker centers. Lesions are scattered across the surface, especially concentrated on the lower half of the leaf.
+A photo of durian leaf with leaf_spot, showing numerous small, circular yellow-green lesions with darker centers. Lesions are scattered across the surface, especially concentrated on the lower half of the leaf.

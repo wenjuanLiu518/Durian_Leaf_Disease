@@ -1,1 +1,1 @@
-A photo of durian leaf with leaf spot, showing dense, small circular yellow-green spots throughout the leaf, many with dark punctate centers.
+A photo of durian leaf with leaf_spot, showing dense, small circular yellow-green spots throughout the leaf, many with dark punctate centers.

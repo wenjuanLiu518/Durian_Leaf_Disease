@@ -1,1 +1,1 @@
-A photo of durian leaf with leaf blight, showing a large necrotic lesion extending from the leaf tip upward, characterized by a dry, brownish-gray area with a sharply demarcated wavy margin separating it from the healthy green tissue.
+A photo of durian leaf with leaf_blight, showing a large necrotic lesion extending from the leaf tip upward, characterized by a dry, brownish-gray area with a sharply demarcated wavy margin separating it from the healthy green tissue.

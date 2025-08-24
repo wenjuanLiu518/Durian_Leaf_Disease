@@ -1,1 +1,1 @@
-A photo of durian leaf with leaf spot, displaying several pale yellow patches without clear margins. The discoloration is diffuse, mostly on the lower half of the leaf.
+A photo of durian leaf with leaf_spot, displaying several pale yellow patches without clear margins. The discoloration is diffuse, mostly on the lower half of the leaf.

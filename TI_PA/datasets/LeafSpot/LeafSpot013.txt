@@ -1,1 +1,1 @@
-A photo of durian leaf with leaf spot, featuring multiple small, yellow spots with reddish-brown centers. The lesions are irregularly distributed across the entire leaf surface.
+A photo of durian leaf with leaf_spot, featuring multiple small, yellow spots with reddish-brown centers. The lesions are irregularly distributed across the entire leaf surface.

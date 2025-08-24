@@ -1,1 +1,1 @@
-A photo of durian leaf with leaf spot, presenting scattered yellow lesions with central brown punctures. The lesions vary slightly in size and are denser near the apex.
+A photo of durian leaf with leaf_spot, presenting scattered yellow lesions with central brown punctures. The lesions vary slightly in size and are denser near the apex.

@@ -1,1 +1,1 @@
-A photo of durian leaf with leaf blight, marked by elongated apical necrosis transitioning through yellowing to gray-brown dry areas, with a crescent-shaped demarcation along the lesion margin.
+A photo of durian leaf with leaf_blight, marked by elongated apical necrosis transitioning through yellowing to gray-brown dry areas, with a crescent-shaped demarcation along the lesion margin.

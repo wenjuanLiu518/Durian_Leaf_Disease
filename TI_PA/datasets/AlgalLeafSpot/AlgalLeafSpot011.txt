@@ -1,1 +1,1 @@
-A photo of durian leaf with algal leaf spot, showing distinct circular orange-brown lesions sparsely distributed across the leaf blade. The surface is glossy, and the lesions are clearly outlined against the healthy green tissue.
+A photo of durian leaf with algal_leaf_spot, showing distinct circular orange-brown lesions sparsely distributed across the leaf blade. The surface is glossy, and the lesions are clearly outlined against the healthy green tissue.

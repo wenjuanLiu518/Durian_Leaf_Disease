@@ -1,1 +1,1 @@
-A photo of durian leaf with leaf spot, presenting extensive yellow chlorotic patches with small brown spots dispersed unevenly. Some lesions appear near the central vein.
+A photo of durian leaf with leaf_spot, presenting extensive yellow chlorotic patches with small brown spots dispersed unevenly. Some lesions appear near the central vein.

@@ -1,1 +1,1 @@
-A photo of durian leaf with leaf spot, showing many round to slightly irregular lesions, yellow with dark centers. The lesions are more concentrated along the leaf margins.
+A photo of durian leaf with leaf_spot, showing many round to slightly irregular lesions, yellow with dark centers. The lesions are more concentrated along the leaf margins.

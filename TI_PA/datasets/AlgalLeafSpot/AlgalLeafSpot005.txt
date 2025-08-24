@@ -1,1 +1,1 @@
-A photo of durian leaf with algal leaf spot, showing numerous circular brownish spots scattered along the midrib and lateral veins. The spots are dark brown with slightly uneven edges, distributed asymmetrically across the leaf surface.
+A photo of durian leaf with algal_leaf_spot, showing numerous circular brownish spots scattered along the midrib and lateral veins. The spots are dark brown with slightly uneven edges, distributed asymmetrically across the leaf surface.

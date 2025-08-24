@@ -1,1 +1,1 @@
-A photo of durian leaf with leaf blight, exhibiting basal and lateral necrotic regions that are grayish-white and dry, extending from the tip toward mid-blade with a well-defined lesion boundary.
+A photo of durian leaf with leaf_blight, exhibiting basal and lateral necrotic regions that are grayish-white and dry, extending from the tip toward mid-blade with a well-defined lesion boundary.
