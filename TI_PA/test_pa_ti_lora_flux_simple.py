@@ -30,10 +30,9 @@ PLACEHOLDER_PROMPTS = {
 FLUX_MODEL = "black-forest-labs/FLUX.1-dev"
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
 LORA_PATHS = [
-    "./lora_output/no_disease_r64.safetensors",
-    "./lora_output/algal_leaf_spot_r64.safetensors",
+    ("./lora_output/no_disease_r64.safetensors", 0.15),
+    ("./lora_output/algal_leaf_spot_r64.safetensors", 0.65),
 ]
-LORA_WEIGHT = 0.65  # LoRA 权重缩放
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 # ==== PromptAdapter 定义 ====
@@ -75,9 +74,9 @@ def run():
     clip_processor = CLIPProcessor.from_pretrained("openai/clip-vit-base-patch32")
     clip_model = CLIPModel.from_pretrained("openai/clip-vit-base-patch32").to(DEVICE)
 
-    for lora_path in LORA_PATHS:
+    for lora_path, lora_weight in LORA_PATHS:
         if os.path.exists(lora_path) or '/' in lora_path:
-            pipe.load_lora_weights(lora_path, weight_name="pytorch_lora_weights.safetensors" if "safetensors" not in lora_path else None)
+            pipe.load_lora_weights(lora_path, adapter_name=f"lora_{lora_path.split('/')[-1]}")
             print(f"已加载 LoRA: {lora_path}")
         else:
             print(f"跳过 LoRA 路径: {lora_path}，文件不存在。")
@@ -100,7 +99,17 @@ def run():
         with torch.no_grad():
             raw_embed = pipe.text_encoder(**text_input).last_hidden_state
             adapted_embed = adapter(raw_embed)
-            image = pipe(prompt_embeds=adapted_embed).images[0]
+            if LORA_PATHS:
+                lora_adapters = [f"lora_{p[0].split('/')[-1]}" for p in LORA_PATHS]
+                lora_weights = [p[1] for p in LORA_PATHS]
+                image = pipe(
+                    prompt_embeds=adapted_embed, guidance_scale=3.5,
+                    lora_weights={adapter: weight for adapter, weight in zip(lora_adapters, lora_weights)}
+                ).images[0]
+            else:
+                image = pipe(
+                    prompt_embeds=adapted_embed, guidance_scale=3.5
+                ).images[0]
 
         save_path = os.path.join(OUTPUT_DIR, f"gen_joint_{token}.png")
         image.save(save_path)
